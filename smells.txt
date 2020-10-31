@@ -1,5 +1,7 @@
-Question 1
+1. Duplicate code, refactor by extracting the code to a method.
 
-Duplicated code, extract method
+3. Feature envy, move it to the correct class.
 
+4.) change it to a for loop that iterates four times.
 
+6.) Extract the code to a method.
